@@ -1,0 +1,46 @@
+body {
+    background-image: url('media/back.jg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    opacity: 0.9;
+}
+#div1 {
+    width: 200;
+    height: 200;
+    padding: 10px;
+    border: 1px solid #aaaaaa;
+    border-radius: 200px 200px 200px 200px;
+}
+#div3 {
+    width: 200;
+    height: 200;
+    padding: 10px;
+    border: 1px solid #aaaaaa;
+    border-radius: 0px 150px 0px 150px;
+}
+#div2 {
+    width: 200;
+    height: 200;
+    padding: 10px;
+    border: 1px solid #aaaaaa;
+}
+#drag3:before {
+    position: absolute;
+    content: '';
+    background: rgba(0,0,0, 0.5); /*partially transparent image*/
+    width: 200px;
+    height: 200px;
+    pointer-events: none;
+}
+#div4 {
+    width: 250;
+    height: 150;
+    padding: 10px;
+    border: 1px solid #aaaaaa;
+    
+}
+tr
+{
+    padding-left: 10px;
+}
