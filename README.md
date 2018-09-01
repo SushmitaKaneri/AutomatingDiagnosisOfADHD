@@ -1,14 +1,6 @@
 # Automating Diagnosis Of ADHD
 Few tests based on DSM 5 have been automated in following test. The idea has Copyrights ©Sushmita Rajendra Kaneri but the code is open for use.
 
-# Overview
-
-This application runs 3 test
-1) Completing task of matching shapes to their correct impressions. While performing this task, pictures of the user would be taken and then classified into facial expressions shown.
-2) Responding to audio/visual words by correctly entering them
-3) Questionnaire for informants (Parents/Teacher)
-Once these tests are performed, a screen for Consultant details is opened where after entering the Email, a mail of the corresponding patient would be send to the Consultant
-
 # File Structure
 
 - Demo
